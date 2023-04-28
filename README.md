@@ -1,7 +1,7 @@
 
 # Hi there! , my name is Jord 🖖🏻
 ## My LinkedIn
-### Estou em busca de emprego / Currently seeking for new job opportunities !
+### Procurando novas oportunidades de trabalho! / Currently seeking for new job opportunities !
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jord-allef-383aba240/)
 
 ## Technologies that I have experience :
