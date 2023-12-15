@@ -3,7 +3,7 @@
 ## My LinkedIn
 ### Procurando novas oportunidades de trabalho! / Currently seeking for new job opportunities !
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jord-allef-383aba240/)
-### If you wish to establish contact with me, kindly utilize email as it is the most efficient means of communication. Please feel free to reach out at your earliest convenience. The Email is in the description 
+### If you wish to establish contact with me, kindly utilize email as it is the most efficient means of communication. Please feel free to reach out at your earliest convenience : jordeallefsilvadecarvalho@gmail.com
 ## Technologies that I have experience :
   
 
