@@ -13,7 +13,9 @@
 [![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
 [![RUBY](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)](https://www.ruby-lang.org/en/documentation/)
 [![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://dev.mysql.com/doc/)
-There is the link to my profile on Exercism, if you don´t know what is this it is a website that have some logic challenges where you can solve them with all programming languages.
+
+# There is the link to my profile on Exercism, if you don´t know what is this it is a website that have some logic challenges where you can solve them with all programming languages.
+
 [![Exercism Profile](https://img.shields.io/badge/Exercism-00000F?style=for-the-badge&logo=exercism&logoColor=purple)](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 
