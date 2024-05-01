@@ -16,6 +16,6 @@
 
 ### There is the link to my profile on Exercism, if you don´t know what is this is a website that has some logic challenges where you can solve them with all programming languages.
 
-[![Exercism Profile](https://img.shields.io/badge/Exercism-00000F?style=for-the-badge&logo=exercism&logoColor=purple)](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+[![Exercism Profile](https://img.shields.io/badge/Exercism-00000F?style=for-the-badge&logo=exercism&logoColor=purple)](https://exercism.org/profiles/Jordlolk/solutions)
 
 
