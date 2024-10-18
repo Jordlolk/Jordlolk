@@ -1,9 +1,7 @@
 
 # Hi there! , my name is Jord 🖖🏻
 
-### If you wish to establish contact with me, kindly utilize email as it is the most efficient means of communication. Please feel free to reach out at your earliest convenience : "jordeallefsilvadecarvalho@gmail.com"
-## Technologies that I have experience :
-  
+Working at Medeiros Distribuidora! 👾
 
 [![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
